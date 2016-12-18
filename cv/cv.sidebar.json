@@ -1,14 +1,14 @@
 {
-	"blocks": [
-		{
+  "blocks": [
+    {
       "type": "person_info",
       "slug": "person_info",
       "avatar": "https://andrii-burkivskyi.herokuapp.com/andrii_burkivskyi.jpg",
       "name": "Andrii",
       "sername": "Burkivskyi",
       "position": "JavaScript Developer"
-		},
-		{
+    },
+    {
       "type": "icons_list",
       "slug": "contact_me",
       "title": "Contact me",
@@ -36,8 +36,8 @@
           "url": "https://www.google.com.ua/maps/place/%D0%9A%D0%B8%D0%B5%D0%B2/@50.4021702,30.3926089,11z/data=!3m1!4b1!4m5!3m4!1s0x40d4cf4ee15a4505:0x764931d2170146fe!8m2!3d50.4501!4d30.5234?hl=ru"
         }
       ]
-		},
-		{
+    },
+    {
       "type": "chart_list",
       "slug": "personal_skills",
       "title": "Personal skills",
@@ -68,8 +68,8 @@
           "text": "Organisation"
         }
       ]
-		},
-		{
+    },
+    {
       "type": "icons_list",
       "slug": "connect",
       "title": "Connect",
@@ -97,6 +97,6 @@
           "url": "https://www.facebook.com/andrii.burkivskyi"
         }
       ]
-		}
-	]
+    }
+  ]
 }

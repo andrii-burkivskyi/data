@@ -1,6 +1,6 @@
 {
-	"blocks": [
-		{
+  "blocks": [
+    {
       "type": "time_list",
       "slug": "work_experience",
       "title": "Work experience",
@@ -23,8 +23,8 @@
           "description": "Get experience with html, css, js and elevate communication skills with clients."
         }
       ]
-		},
-		{
+    },
+    {
       "type": "chart_list",
       "slug": "professional_skills",
       "title": "Professional skills",
@@ -55,8 +55,8 @@
           "text": "QA"
         }
       ]
-		},
-		{
+    },
+    {
       "type": "time_list",
       "slug": "education",
       "title": "Education",
@@ -95,8 +95,8 @@
           "descriptext": "Hoisting, building, road-making, ameliorative machines and equipment"
         }
       ]
-		},
-		{
+    },
+    {
       "type": "chart_list",
       "slug": "proficiency",
       "title": "Proficiency",
@@ -145,6 +145,6 @@
           "text": "Protractor"
         }
       ]
-		}
-	]
+    }
+  ]
 }
