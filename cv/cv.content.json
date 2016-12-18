@@ -1,0 +1,150 @@
+{
+	"blocks": [
+		{
+      "type": "time_list",
+      "slug": "work_experience",
+      "title": "Work experience",
+      "icon": "#icon-case",
+      "items": [
+        {
+          "type": "time",
+          "slug": "pingbull",
+          "position": "QA Engineer",
+          "time": "2013 - 2016",
+          "organisation": "Pingbull",
+          "description": "Improve my skills of understanding css and js code, work in team and  understanding of software development life-cycle."
+        },
+        {
+          "type": "time",
+          "slug": "freelance_web",
+          "position": "Site Administrator",
+          "time": "2013",
+          "organisation": "Freelance, web site development and design",
+          "description": "Get experience with html, css, js and elevate communication skills with clients."
+        }
+      ]
+		},
+		{
+      "type": "chart_list",
+      "slug": "professional_skills",
+      "title": "Professional skills",
+      "icon": "#icon-chart",
+      "items": [
+        {
+          "type": "chart",
+          "slug": "javascript",
+          "value": "88%",
+          "text": "JavaScript"
+        },
+        {
+          "type": "chart",
+          "slug": "css3",
+          "value": "95%",
+          "text": "CSS3"
+        },
+        {
+          "type": "chart",
+          "slug": "html5",
+          "value": "85%",
+          "text": "HTML5"
+        },
+        {
+          "type": "chart",
+          "slug": "qa",
+          "value": "99%",
+          "text": "QA"
+        }
+      ]
+		},
+		{
+      "type": "time_list",
+      "slug": "education",
+      "title": "Education",
+      "icon": "#icon-education",
+      "items": [
+        {
+          "type": "time",
+          "slug": "bionic_university",
+          "position": "Automation QA Engineer",
+          "time": "2015",
+          "organisation": "BIONIC University",
+          "description": "BIONIC University is the educational initiative of BIONIC Hill innovation park."
+        },
+        {
+          "type": "time",
+          "slug": "skillup",
+          "position": "Junior QA Engineer",
+          "time": "2013",
+          "organisation": "SkillUP",
+          "description": "Software-testing courses"
+        },
+        {
+          "type": "time",
+          "slug": "national_transport_university_secialist",
+          "position": "Specialist degree",
+          "time": "2007 - 2008",
+          "organisation": "National Transport University",
+          "description": "Hoisting, building, road-making, ameliorative machines and equipment"
+        },
+        {
+          "type": "time",
+          "slug": "national_transport_university_dachelor",
+          "position": "Bachelor degree",
+          "time": "2003 - 2007",
+          "organisation": "National Transport University",
+          "descriptext": "Hoisting, building, road-making, ameliorative machines and equipment"
+        }
+      ]
+		},
+		{
+      "type": "chart_list",
+      "slug": "proficiency",
+      "title": "Proficiency",
+      "icon": "#icon-proficiency",
+      "items": [
+        {
+          "type": "chart",
+          "slug": "react",
+          "value": "88%",
+          "text": "React"
+        },
+        {
+          "type": "chart",
+          "slug": "redux",
+          "value": "95%",
+          "text": "Redux"
+        },
+        {
+          "type": "chart",
+          "slug": "sass",
+          "value": "85%",
+          "text": "Sass"
+        },
+        {
+          "type": "chart",
+          "slug": "gulp",
+          "value": "79%",
+          "text": "Gulp"
+        },
+        {
+          "type": "chart",
+          "slug": "webpack",
+          "value": "89%",
+          "text": "Webpack"
+        },
+        {
+          "type": "chart",
+          "slug": "selenium",
+          "value": "92%",
+          "text": "Selenium"
+        },
+        {
+          "type": "chart",
+          "slug": "protractor",
+          "value": "79%",
+          "text": "Protractor"
+        }
+      ]
+		}
+	]
+}
