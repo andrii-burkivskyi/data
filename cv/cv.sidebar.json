@@ -3,13 +3,13 @@
     {
       "type": "person_info",
       "slug": "person_info",
-      "avatar": "https://andrii-burkivskyi.herokuapp.com/andrii_burkivskyi.jpg",
+      "avatar": "https://raw.githubusercontent.com/andrii-burkivskyi/data/master/cv/andrii_burkivskyi.jpg",
       "name": "Andrii",
       "sername": "Burkivskyi",
       "position": "JavaScript Developer"
     },
     {
-      "type": "icons_list",
+      "type": "list",
       "slug": "contact_me",
       "title": "Contact me",
       "icon": "#icon-contact-me",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "type": "chart_list",
+      "type": "list",
       "slug": "personal_skills",
       "title": "Personal skills",
       "icon": "#icon-chart",
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "type": "icons_list",
+      "type": "list",
       "slug": "connect",
       "title": "Connect",
       "icon": "#icon-peoples",

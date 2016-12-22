@@ -1,7 +1,7 @@
 {
   "blocks": [
     {
-      "type": "time_list",
+      "type": "list",
       "slug": "work_experience",
       "title": "Work experience",
       "icon": "#icon-case",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "type": "chart_list",
+      "type": "list",
       "slug": "professional_skills",
       "title": "Professional skills",
       "icon": "#icon-chart",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "type": "time_list",
+      "type": "list",
       "slug": "education",
       "title": "Education",
       "icon": "#icon-education",
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "type": "chart_list",
+      "type": "list",
       "slug": "proficiency",
       "title": "Proficiency",
       "icon": "#icon-proficiency",
