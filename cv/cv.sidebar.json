@@ -12,26 +12,26 @@
       "type": "list",
       "slug": "contact_me",
       "title": "Contact me",
-      "icon": "#icon-contact-me",
+      "icon": "contact-me",
       "items": [
         {
           "type": "link",
           "slug": "mail",
-          "icon": "#icon-mail-filled",
+          "icon": "mail-filled",
           "text": "andrey.burkivskiy@gmail.com",
           "url": "mailto:andrey.burkivskiy@gmail.com"
         },
         {
           "type": "link",
           "slug": "site",
-          "icon": "#icon-web-site",
+          "icon": "web-site",
           "text": "andrii-burkivskyi.github.io",
           "url": "https://andrii-burkivskyi.github.io"
         },
         {
           "type": "link",
           "slug": "location",
-          "icon": "#icon-map",
+          "icon": "map",
           "text": "Ukraine, Kiev",
           "url": "https://www.google.com.ua/maps/place/%D0%9A%D0%B8%D0%B5%D0%B2/@50.4021702,30.3926089,11z/data=!3m1!4b1!4m5!3m4!1s0x40d4cf4ee15a4505:0x764931d2170146fe!8m2!3d50.4501!4d30.5234?hl=ru"
         }
@@ -41,7 +41,7 @@
       "type": "list",
       "slug": "personal_skills",
       "title": "Personal skills",
-      "icon": "#icon-chart",
+      "icon": "chart",
       "items": [
         {
           "type": "chart",
@@ -73,26 +73,26 @@
       "type": "list",
       "slug": "connect",
       "title": "Connect",
-      "icon": "#icon-peoples",
+      "icon": "peoples",
       "items": [
         {
           "type": "link",
           "slug": "linkedin",
-          "icon": "#icon-linkedin",
+          "icon": "linkedin",
           "text": "linkedin.com/andrey-burkivskiy",
           "url": "https://www.linkedin.com/in/andrey-burkivskiy"
         },
         {
           "type": "link",
           "slug": "twitter",
-          "icon": "#icon-twitter",
+          "icon": "twitter",
           "text": "twitter.com/andrey-burkivskiy",
           "url": "https://twitter.com/AndreyBurkivski"
         },
         {
           "type": "link",
           "slug": "facebook",
-          "icon": "#icon-facebook",
+          "icon": "facebook",
           "text": "facebook.com/andrii.burkivskyi",
           "url": "https://www.facebook.com/andrii.burkivskyi"
         }
