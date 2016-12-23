@@ -12,7 +12,7 @@
       "type": "list",
       "slug": "contact_me",
       "title": "Contact me",
-      "icon": "##contact-me",
+      "icon": "#contact-me",
       "items": [
         {
           "type": "link",
