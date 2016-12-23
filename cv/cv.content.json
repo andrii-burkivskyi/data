@@ -4,7 +4,7 @@
       "type": "list",
       "slug": "work_experience",
       "title": "Work experience",
-      "icon": "#icon-case",
+      "icon": "#case",
       "items": [
         {
           "type": "time",
@@ -28,7 +28,7 @@
       "type": "list",
       "slug": "professional_skills",
       "title": "Professional skills",
-      "icon": "#icon-chart",
+      "icon": "#chart",
       "items": [
         {
           "type": "chart",
@@ -60,7 +60,7 @@
       "type": "list",
       "slug": "education",
       "title": "Education",
-      "icon": "#icon-education",
+      "icon": "#education",
       "items": [
         {
           "type": "time",
@@ -100,7 +100,7 @@
       "type": "list",
       "slug": "proficiency",
       "title": "Proficiency",
-      "icon": "#icon-proficiency",
+      "icon": "#proficiency",
       "items": [
         {
           "type": "chart",
