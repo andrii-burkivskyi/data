@@ -1,5 +1,6 @@
 [
   {
+    "slug": "movies_database",
     "image": "https://raw.githubusercontent.com/andrii-burkivskyi/data/master/project-list/movie.jpg",
     "title": "Movies database",
     "description": "",
