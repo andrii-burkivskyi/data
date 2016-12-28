@@ -3,7 +3,7 @@
     "slug": "movies_database",
     "image": "https://raw.githubusercontent.com/andrii-burkivskyi/data/master/project-list/movie.jpg",
     "title": "Movies database",
-    "description": "",
+    "description": "Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.",
     "technologies": [
       "react",
       "redux",
