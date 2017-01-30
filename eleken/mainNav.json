@@ -1,38 +1,40 @@
-[
-  {
-    "slug": "home",
-    "title": "Home",
-    "url": "/",
-    "style": "normal"
-  },
-  {
-    "slug": "catalog",
-    "title": "Catalog",
-    "url": "/catalog",
-    "style": "normal"
-  },
-  {
-    "slug": "news",
-    "title": "News",
-    "url": "/news",
-    "style": "normal"
-  },
-  {
-    "slug": "sale",
-    "title": "Sale",
-    "url": "/sale",
-    "style": "attention"
-  },
-  {
-    "slug": "about",
-    "title": "About",
-    "url": "/about",
-    "style": "normal"
-  },
-  {
-    "slug": "contact",
-    "title": "Contact",
-    "url": "/contact",
-    "style": "normal"
-  },
-]
+{
+  "data": [
+    {
+      "slug": "home",
+      "title": "Home",
+      "url": "/",
+      "style": "normal"
+    },
+    {
+      "slug": "catalog",
+      "title": "Catalog",
+      "url": "/catalog",
+      "style": "normal"
+    },
+    {
+      "slug": "news",
+      "title": "News",
+      "url": "/news",
+      "style": "normal"
+    },
+    {
+      "slug": "sale",
+      "title": "Sale",
+      "url": "/sale",
+      "style": "attention"
+    },
+    {
+      "slug": "about",
+      "title": "About",
+      "url": "/about",
+      "style": "normal"
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "url": "/contact",
+      "style": "normal"
+    }
+  ]
+}
