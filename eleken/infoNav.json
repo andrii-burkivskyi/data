@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "delivery",
+    "title": "Delivery",
+    "url": "/delivery"
+  },
+  {
+    "slug": "faq",
+    "title": "FAQ",
+    "url": "/faq"
+  },
+  {
+    "slug": "help",
+    "title": "Help",
+    "url": "/help"
+  }
+]
