@@ -3,7 +3,7 @@
     {
       "id": "1",
       "title": "Printed swimsuit",
-      "thumbnails": "/image1.jpg",
+      "thumbnails": "/images/image1.jpg",
       "price": "$23",
       "discountPrice": "",
       "label": "",
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "title": "Jogging bermuda shorts",
-      "thumbnails": "/image2.jpg",
+      "thumbnails": "/images/image2.jpg",
       "price": "$36",
       "discountPrice": "$12",
       "label": "",
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "title": "Basic beach flip flops",
-      "thumbnails": "/image3.jpg",
+      "thumbnails": "/images/image3.jpg",
       "price": "$9",
       "discountPrice": "",
       "label": "new",
@@ -30,7 +30,7 @@
     {
       "id": "4",
       "title": "Black sunglasses",
-      "thumbnails": "/image4.jpg",
+      "thumbnails": "/images/image4.jpg",
       "price": "$29",
       "discountPrice": "",
       "label": "",
@@ -39,7 +39,7 @@
     {
       "id": "5",
       "title": "Long sleeved twill shirt",
-      "thumbnails": "/image5.jpg",
+      "thumbnails": "/images/image5.jpg",
       "price": "$20",
       "discountPrice": "",
       "label": "",
@@ -48,7 +48,7 @@
     {
       "id": "6",
       "title": "Basic swimsuit",
-      "thumbnails": "/image6.jpg",
+      "thumbnails": "/images/image6.jpg",
       "price": "$36",
       "discountPrice": "",
       "label": "",
@@ -57,7 +57,7 @@
     {
       "id": "7",
       "title": "Bleached shorts",
-      "thumbnails": "/image7.jpg",
+      "thumbnails": "/images/image7.jpg",
       "price": "$12",
       "discountPrice": "",
       "label": "",
@@ -66,7 +66,7 @@
     {
       "id": "8",
       "title": "T-shirt with lower panel",
-      "thumbnails": "/image8.jpg",
+      "thumbnails": "/images/image8.jpg",
       "price": "$32",
       "discountPrice": "$12",
       "label": "",

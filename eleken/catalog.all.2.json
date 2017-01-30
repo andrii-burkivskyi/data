@@ -3,7 +3,7 @@
     {
       "id": "9",
       "title": "Basic beach flip flops",
-      "thumbnails": "/image3.jpg",
+      "thumbnails": "/images/image3.jpg",
       "price": "$9",
       "discountPrice": "",
       "label": "new",
@@ -12,7 +12,7 @@
     {
       "id": "10",
       "title": "Black sunglasses",
-      "thumbnails": "/image4.jpg",
+      "thumbnails": "/images/image4.jpg",
       "price": "$29",
       "discountPrice": "",
       "label": "",
@@ -21,7 +21,7 @@
     {
       "id": "11",
       "title": "T-shirt with lower panel",
-      "thumbnails": "/image8.jpg",
+      "thumbnails": "/images/image8.jpg",
       "price": "$32",
       "discountPrice": "$12",
       "label": "",
