@@ -3,32 +3,32 @@
     {
       "slug": "all",
       "title": "All",
-      "url": "catalog/all"
+      "url": "/catalog/all"
     },
     {
       "slug": "tshirts",
       "title": "T-shirts",
-      "url": "catalog/tshirts"
+      "url": "/catalog/tshirts"
     },
     {
       "slug": "sweaters",
       "title": "Sweaters",
-      "url": "catalog/sweaters"
+      "url": "/catalog/sweaters"
     },
     {
       "slug": "shorts",
       "title": "Shorts",
-      "url": "catalog/shorts"
+      "url": "/catalog/shorts"
     },
     {
       "slug": "jackets",
       "title": "Jackets",
-      "url": "catalog/jackets"
+      "url": "/catalog/jackets"
     },
     {
       "slug": "accessoires",
       "title": "Accessoires",
-      "url": "catalog/accessoires"
+      "url": "/catalog/accessoires"
     }
   ]
 }

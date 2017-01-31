@@ -9,31 +9,31 @@
     {
       "slug": "catalog",
       "title": "Catalog",
-      "url": "catalog",
+      "url": "/catalog",
       "style": "normal"
     },
     {
       "slug": "news",
       "title": "News",
-      "url": "news",
+      "url": "/news",
       "style": "normal"
     },
     {
       "slug": "sale",
       "title": "Sale",
-      "url": "sale",
+      "url": "/sale",
       "style": "attention"
     },
     {
       "slug": "about",
       "title": "About",
-      "url": "about",
+      "url": "/about",
       "style": "normal"
     },
     {
       "slug": "contact",
       "title": "Contact",
-      "url": "contact",
+      "url": "/contact",
       "style": "normal"
     }
   ]
