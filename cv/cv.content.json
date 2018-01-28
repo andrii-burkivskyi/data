@@ -8,19 +8,27 @@
       "items": [
         {
           "type": "time",
+          "slug": "competera",
+          "position": "Frontend Developer",
+          "time": "2016 - 2017",
+          "organisation": "Competera",
+          "description": "Work with React, Redux, Redux-Saga and Highcharts."
+        },
+        {
+          "type": "time",
+          "slug": "freelance_web",
+          "position": "JavaScript Developer",
+          "time": "2016",
+          "organisation": "Freelance, web site development and design",
+          "description": "Took break for study. Learning: React, Redux, Immutable, data normalization, server side rendering, unit and e2e testing."
+        },
+        {
+          "type": "time",
           "slug": "pingbull",
           "position": "QA Engineer",
           "time": "2013 - 2016",
           "organisation": "Pingbull",
           "description": "Improve my skills of understanding css and js code, work in team and  understanding of software development life-cycle."
-        },
-        {
-          "type": "time",
-          "slug": "freelance_web",
-          "position": "Site Administrator",
-          "time": "2013",
-          "organisation": "Freelance, web site development and design",
-          "description": "Get experience with html, css, js and elevate communication skills with clients."
         }
       ]
     },
@@ -137,6 +145,12 @@
           "slug": "selenium",
           "value": "92%",
           "text": "Selenium"
+        },
+        {
+          "type": "chart",
+          "slug": "highcharts",
+          "value": "95%",
+          "text": "Highcharts"
         },
         {
           "type": "chart",
