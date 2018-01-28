@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "slug": "all",
+      "title": "All",
+      "url": "/catalog/all"
+    },
+    {
+      "slug": "tshirts",
+      "title": "T-shirts",
+      "url": "/catalog/tshirts"
+    },
+    {
+      "slug": "sweaters",
+      "title": "Sweaters",
+      "url": "/catalog/sweaters"
+    },
+    {
+      "slug": "shorts",
+      "title": "Shorts",
+      "url": "/catalog/shorts"
+    },
+    {
+      "slug": "jackets",
+      "title": "Jackets",
+      "url": "/catalog/jackets"
+    },
+    {
+      "slug": "accessoires",
+      "title": "Accessoires",
+      "url": "/catalog/accessoires"
+    }
+  ]
+}
