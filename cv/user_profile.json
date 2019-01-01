@@ -2,5 +2,165 @@
     "avatar": "https://raw.githubusercontent.com/andrii-burkivskyi/data/master/cv/andrii_burkivskyi.jpg",
     "name": "Andrii",
     "surname": "Burkivskyi",
-    "position": "JavaScript Developer"
+    "position": "JavaScript Developer",
+    "contactMeTitle": "Contact me",
+    "contactMeIcon": "#contact-me",
+    "contactMeItems": [{
+            "icon": "#mail-filled",
+            "text": "andrey.burkivskiy@gmail.com",
+            "href": "mailto:andrey.burkivskiy@gmail.com"
+        },
+        {
+            "icon": "#web-site",
+            "text": "andrii-burkivskyi.github.io",
+            "url": "https://andrii-burkivskyi.github.io"
+        },
+        {
+            "icon": "#map",
+            "text": "Ukraine, Kiev",
+            "url": "https://www.google.com.ua/maps/place/%D0%9A%D0%B8%D0%B5%D0%B2/@50.4021702,30.3926089,11z/data=!3m1!4b1!4m5!3m4!1s0x40d4cf4ee15a4505:0x764931d2170146fe!8m2!3d50.4501!4d30.5234?hl=ru"
+        }
+    ],
+    "personalSkillsTitle": "Personal skills",
+    "personalSkillsIcon": "#chart",
+    "personalSkillsItems": [{
+            "value": "98%",
+            "text": "Teamwork"
+        },
+        {
+            "value": "82%",
+            "text": "Innovate"
+        },
+        {
+            "value": "89",
+            "text": "Creative"
+        },
+        {
+            "value": "80%",
+            "text": "Organization"
+        }
+    ],
+    "connectTitle": "Connect",
+    "connectIcon": "#peoples",
+    "connectItems": [{
+            "icon": "#linkedin",
+            "text": "linkedin.com/andrey-burkivskiy",
+            "url": "https://www.linkedin.com/in/andrey-burkivskiy"
+        },
+        {
+            "icon": "#twitter",
+            "text": "twitter.com/andrey-burkivskiy",
+            "url": "https://twitter.com/AndreyBurkivski"
+        },
+        {
+            "icon": "#facebook",
+            "text": "facebook.com/andrii.burkivskyi",
+            "url": "https://www.facebook.com/andrii.burkivskyi"
+        }
+    ],
+    "workExperienceTitle": "Work experience",
+    "workExperienceIcon": "#case",
+    "workExperienceItems": [{
+            "position": "Frontend Developer",
+            "time": "2017 - till now",
+            "organization": "Homsters",
+            "description": "Work with React, Redux and TypeScript."
+        },
+        {
+            "position": "Frontend Developer",
+            "time": "2016 - 2017",
+            "organization": "Competera",
+            "description": "Work with React, Redux, Redux-Saga and HighCharts."
+        },
+        {
+
+            "position": "JavaScript Developer",
+            "time": "2016",
+            "organization": "Freelance, web site development and design",
+            "description": "Took break for study. Learning: React, Redux, Immutable, data normalization, server side rendering, unit and e2e testing."
+        }
+    ],
+    "professionalSkillsTitle": "Professional skills",
+    "professionalSkillsIcon": "#chart",
+    "professionalSkillsItems": [{
+            "value": "88%",
+            "text": "JavaScript"
+        },
+        {
+            "value": "95%",
+            "text": "CSS3"
+        },
+        {
+            "value": "85%",
+            "text": "HTML5"
+        },
+        {
+            "value": "99%",
+            "text": "QA"
+        }
+    ],
+
+    "educationTitle": "Education",
+    "educationIcon": "#education",
+    "educationItems": [{
+            "position": "Automation QA Engineer",
+            "time": "2015",
+            "organization": "BIONIC University",
+            "description": "BIONIC University is the educational initiative of BIONIC Hill innovation park."
+        },
+        {
+            "position": "Junior QA Engineer",
+            "time": "2013",
+            "organization": "SkillUP",
+            "description": "Software-testing courses"
+        },
+        {
+            "position": "Specialist degree",
+            "time": "2007 - 2008",
+            "organization": "National Transport University",
+            "description": "Hoisting, building, road-making, ameliorative machines and equipment"
+        },
+        {
+            "position": "Bachelor degree",
+            "time": "2003 - 2007",
+            "organization": "National Transport University",
+            "description": "Hoisting, building, road-making, ameliorative machines and equipment"
+        }
+    ],
+
+    "proficiencyTitle": "Proficiency",
+    "proficiencyIcon": "#proficiency",
+    "proficiencyItems": [{
+            "value": "88%",
+            "text": "React"
+        },
+        {
+            "value": "95%",
+            "text": "Redux"
+        },
+        {
+            "value": "85%",
+            "text": "Sass"
+        },
+        {
+            "value": "79%",
+            "text": "Gulp"
+        },
+        {
+            "value": "89%",
+            "text": "Webpack"
+        },
+        {
+            "value": "92%",
+            "text": "Selenium"
+        },
+        {
+            "value": "95%",
+            "text": "HighCharts"
+        },
+        {
+            "value": "79%",
+            "text": "Protractor"
+        }
+    ]
 }
