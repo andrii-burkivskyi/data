@@ -1,0 +1,95 @@
+{
+    "avatar": "https://raw.githubusercontent.com/andrii-burkivskyi/data/master/cv/andrii_burkivskyi.jpg",
+    "name": "Andrii",
+    "surname": "Burkivskyi",
+    "position": "JavaScript Developer",
+    "email": "andrey.burkivskiy@gmail.com",
+    "webSite": {
+        "text": "andrii-burkivskyi.github.io",
+        "url": "https://andrii-burkivskyi.github.io"
+    },
+    "location": {
+        "text": "Ukraine, Kiev",
+        "url": "https://www.google.com.ua/maps/place/Киев/@50.4021702,30.3926089,11z?hl=ru"
+    },
+    "linkedin": {
+        "text": "linkedin.com/andrey-burkivskiy",
+        "url": "https://www.linkedin.com/in/andrey-burkivskiy"
+    },
+    "twitter": {
+        "text": "twitter.com/andrey-burkivskiy",
+        "url": "https://twitter.com/AndreyBurkivski"
+    },
+    "facebook": {
+        "text": "facebook.com/andrii.burkivskyi",
+        "url": "https://www.facebook.com/andrii.burkivskyi"
+    },
+    "personalSkills": [
+        { "value": "98%", "text": "Teamwork" },
+        { "value": "82%", "text": "Innovate" },
+        { "value": "89", "text": "Creative" },
+        { "value": "80%", "text": "Organization" }
+    ],
+    "professionalSkills": [
+        { "value": "88%", "text": "JavaScript" },
+        { "value": "95%", "text": "CSS3" },
+        { "value": "85%", "text": "HTML5" },
+        { "value": "99%", "text": "QA" }
+    ],
+    "proficiency": [
+        { "value": "88%", "text": "React" },
+        { "value": "95%", "text": "Redux" },
+        { "value": "85%", "text": "Sass" },
+        { "value": "79%", "text": "Gulp" },
+        { "value": "89%", "text": "Webpack" },
+        { "value": "92%", "text": "Selenium" },
+        { "value": "95%", "text": "HighCharts" },
+        { "value": "79%", "text": "Protractor" }
+    ],
+    "jobs": [{
+            "position": "Frontend Developer",
+            "time": "2017 - till now",
+            "organization": "Homsters",
+            "description": "Work with React, Redux and TypeScript."
+        },
+        {
+            "position": "Frontend Developer",
+            "time": "2016 - 2017",
+            "organization": "Competera",
+            "description": "Work with React, Redux, Redux-Saga and HighCharts."
+        },
+        {
+
+            "position": "JavaScript Developer",
+            "time": "2016",
+            "organization": "Freelance, web site development and design",
+            "description": "Took break for study. Learning: React, Redux, Immutable, data normalization, server side rendering, unit and e2e testing."
+        }
+    ],
+
+    "education": [{
+            "position": "Automation QA Engineer",
+            "time": "2015",
+            "organization": "BIONIC University",
+            "description": "BIONIC University is the educational initiative of BIONIC Hill innovation park."
+        },
+        {
+            "position": "Junior QA Engineer",
+            "time": "2013",
+            "organization": "SkillUP",
+            "description": "Software-testing courses"
+        },
+        {
+            "position": "Specialist degree",
+            "time": "2007 - 2008",
+            "organization": "National Transport University",
+            "description": "Hoisting, building, road-making, ameliorative machines and equipment"
+        },
+        {
+            "position": "Bachelor degree",
+            "time": "2003 - 2007",
+            "organization": "National Transport University",
+            "description": "Hoisting, building, road-making, ameliorative machines and equipment"
+        }
+    ]
+}
